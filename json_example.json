@@ -1,6 +1,6 @@
 {
     "glossary": {
-        "title": "example glossary",
+        "title": "Демонстрационный словарь",
 		"GlossDiv": {
             "title": "S",
 			"GlossList": {
@@ -14,7 +14,7 @@
                         "para": "A meta-markup language, used to create markup languages such as DocBook.",
 						"GlossSeeAlso": ["GML", "XML"]
                     },
-					"GlossSee": "markup"
+					"GlossSee": false
                 }
             }
         }
