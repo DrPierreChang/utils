@@ -10,3 +10,11 @@ LUNUX COMMANDS
 
 # найти папку по имени
 find / -type d -name 'folder_name'
+
+
+####################################################
+CURL
+
+# authorization header
+-H 'Authorization: Basic base64_string'
+--header 'Authorization: Basic base64_string'
